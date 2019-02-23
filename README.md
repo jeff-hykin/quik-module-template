@@ -13,5 +13,5 @@ How to make this your own:
 2. Create a github repo with your module name
 3. Copy index.js file to your repo
 4. Run `npm init -y` command inside your repo folder
-5. Fill out the index.js file that you copied
+5. Fill out the index.js file that you copied (the documentation is inside of `index.js`)
 6. Type `npm publish` and login if you're not logged in
